@@ -1,0 +1,12 @@
+{
+  "name": "learn-solidity",
+  "version": "1.0.0",
+  "description": "Meta_Node Solidity 学习作业文件\r task01--任务一作业\r ![alt text](./images/image.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
